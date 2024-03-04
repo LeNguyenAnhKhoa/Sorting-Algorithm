@@ -1,6 +1,6 @@
 # Sort Algorithm
 
-![GitHub repo size](https://img.shields.io/github/repo-size/LeNguyenAnhKhoa/SortAlgorithm?color=red&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/LeNguyenAnhKhoa/SortAlgorithm?color=red&style=flat-square)!
 
 
 ## Overview
@@ -14,6 +14,6 @@ Toàn bộ báo cáo ở [đây] (https://view.officeapps.live.com/op/view.aspx?
 
 ## Preference
 
-* [QuickSort] (https://www.geeksforgeeks.org/quicksort-using-random-pivoting/)
-* [HeapSort] (https://www.geeksforgeeks.org/heap-sort/)
-* [MergeSort] (https://www.geeksforgeeks.org/merge-sort/)
+* [QuickSort] (https://www.geeksforgeeks.org/quicksort-using-random-pivoting/)!
+* [HeapSort] (https://www.geeksforgeeks.org/heap-sort/)!
+* [MergeSort] (https://www.geeksforgeeks.org/merge-sort/)!

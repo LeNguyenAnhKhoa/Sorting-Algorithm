@@ -6,6 +6,8 @@
 
 Repo này so sánh tốc độ chạy của các thuật toán sắp xếp trên ngôn ngữ C++ và python(numpy)
 
+Mỗi test bao gồm 1 triệu số thực ngẫu nhiên với test1 đã được xếp tăng dần và test2 đã được xếp giảm dần 8 test còn lại ngẫu nhiên
+
 Toàn bộ báo cáo ở [đây](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FLeNguyenAnhKhoa%2FSortAlgorithm%2Fmain%2FSorting%2520Report.docx&wdOrigin=BROWSELINK)!
 
 ## Biểu đồ tốc độ

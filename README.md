@@ -1,7 +1,6 @@
 # Sort Algorithm
 
-![GitHub repo size](https://img.shields.io/github/repo-size/LeNguyenAnhKhoa/SortAlgorithm?color=red&style=flat-square)!
-
+![GitHub repo size](https://img.shields.io/github/repo-size/LeNguyenAnhKhoa/SortAlgorithm?color=red&style=flat-square)
 
 ## Overview
 

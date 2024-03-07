@@ -4,7 +4,7 @@
 
 ## Overview
 
-Repo này so sánh tốc độ chạy của các thuật toán sắp xếp trên ngôn ngữ C++ và python(numpy)
+Sắp xếp là một trong những thuật toán quan trọng trong các dự án thực tế. Trên đây là một số thuật toán sắp xếp thông dụng được chạy trên các bộ test
 
 Mỗi test bao gồm 1 triệu số thực ngẫu nhiên với test1 đã được xếp tăng dần và test2 đã được xếp giảm dần 8 test còn lại ngẫu nhiên
 

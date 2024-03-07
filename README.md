@@ -8,6 +8,8 @@ Sắp xếp là một trong những thuật toán quan trọng trong các dự �
 
 Mỗi test bao gồm 1 triệu số thực ngẫu nhiên với test1 đã được xếp tăng dần và test2 đã được xếp giảm dần 8 test còn lại ngẫu nhiên
 
+Chúng ta sẽ chạy thử nghiệm trên bộ test này và thống kê tốc độ sắp xếp của mỗi thuật toán trên toàn bộ test
+
 Toàn bộ báo cáo ở [đây](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FLeNguyenAnhKhoa%2FSortAlgorithm%2Fmain%2FSorting%2520Report.docx&wdOrigin=BROWSELINK)!
 
 ## Biểu đồ tốc độ
